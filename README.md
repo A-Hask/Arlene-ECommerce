@@ -1,6 +1,6 @@
 ## Arlene's E-Commerce
 
-  ## Created by: Arlene
+  ## Created by: Arlene Haskins
 
   ## Github: A-Hask
 
