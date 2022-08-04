@@ -1,60 +1,61 @@
 ## Arlene's E-Commerce
 
-  ## Created by: Arlene Haskins
+## Created by: Arlene Haskins
 
-  ## Github: A-Hask
+## Github: A-Hask
 
-  ## Email: ahaskins93@yahoo.com
-  ________________________________________
-  
-  ## Description
-  
-  This application is the back-end of an e-commerce site that displays the site's products by category
-  
-  ________________________________________
-  
-  ## Table of Contents
-  
-  * [Installation Instructions](#installation-instructions)
+## Email: ahask93@gmail.com
 
-  * [Usage Information](#usage-information)
+---
 
-  * [Contribution Guidelines](#contribution-guidelines)
+## Description
 
-  * [Test Instructions](#test-instructions)
+This application is the back-end of an e-commerce site that displays the site's products by category
 
-  * [License or Licenses](#license-or-licenses)
+---
 
-  ________________________________________
+## Table of Contents
 
-  ## Installation Instructions
+- [Installation Instructions](#installation-instructions)
 
-  Clone the code from GitHub, source via MySQL, run local host
+- [Usage Information](#usage-information)
 
-  ________________________________________
+- [Contribution Guidelines](#contribution-guidelines)
 
-  ## Usage Information
+- [Test Instructions](#test-instructions)
 
-  The project can be used to create, read, update, and delete products and categories from the e-commerce site
-  https://drive.google.com/file/d/1X-VBpPECym5NmA2EFCuLmcMY4xtBDJHv/view
+- [License or Licenses](#license-or-licenses)
 
-  ________________________________________
+---
 
-  ## Contribution Guidelines
+## Installation Instructions
 
-  N/A
+Clone the code from GitHub, source via MySQL, run local host
 
-  ________________________________________
+---
 
-  ## Test Instructions
+## Usage Information
 
-  N/A
+The project can be used to create, read, update, and delete products and categories from the e-commerce site
+https://drive.google.com/file/d/1X-VBpPECym5NmA2EFCuLmcMY4xtBDJHv/view
 
-  ________________________________________
-  ## License or Licenses
+---
 
-  
+## Contribution Guidelines
+
+N/A
+
+---
+
+## Test Instructions
+
+N/A
+
+---
+
+## License or Licenses
+
       This project is licensed through None.
-      
 
-   ![GitHub License](https://img.shields.io/badge/license-None-blue.svg)
+
+![GitHub License](https://img.shields.io/badge/license-None-blue.svg)
